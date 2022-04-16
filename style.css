@@ -64,6 +64,7 @@ nav ul li{
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    
 
 }
 .icons{
@@ -124,4 +125,5 @@ nav ul li{
     opacity: 0;
     transition: opacity 0.4s ease-in;
 }
+
 
